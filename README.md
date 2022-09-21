@@ -9,8 +9,8 @@ The fingers are numbered from 0 to 4 with the thumb being finger_0 and the pinky
 When you execute the code use this pose to ensure no unintended activation of a functionality. Then place your hand in the middle of the frame and lift finger_1 
 <img src="/assets/images/Default_Pose.jpg" width="200">
 
-- Mouse movement: <br>
-You can move your mouse anywhere on the screen by lifting finger_1. Make sure that the other fingers are down in order to not interfere with the other functionalities.
+- Cursor movement: <br>
+You can move your cursor anywhere on the screen by lifting finger_1. Make sure that the other fingers are down in order to not interfere with the other functionalities.
 <img src="/assets/images/Move_Mouse.jpg" width="200">
 
 - Left Click: <br>
