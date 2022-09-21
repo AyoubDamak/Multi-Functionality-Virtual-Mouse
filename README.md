@@ -1,10 +1,10 @@
 # Multi-Functionality-Virtual-Mouse
 This code presents a virtual mouse that has a number of functionalities that can be controlled through hand movement and gestures.
 
-### Notation:
+## Notation:
 The fingers are numbered from 0 to 4 with the thumb being finger_0 and the pinky being finger_4.
 
-### Available functions:
+## Available Functions:
 - Default Pose: <br>
 When you execute the code use this pose to ensure no unintended activation of a functionality. Then place your hand in the middle of the frame and lift finger_1 
 <img src="/assets/images/Default_Pose.jpg" width="200">
@@ -27,12 +27,12 @@ Having fingers from 1 to 4 up will toggle left click on. You can use this to dra
 
 - Scroll Up: <br>
 Holding finger_1 and finger_2 up will toggle scroll up. The speed and distance of scrolling are parameters that can be changed as pleased.
-<img src="/assets/images/Scroll_Up.jpg" width="200">
+<img src="/assets/images/Scroll_up.jpg" width="200">
 
 - Scroll Down: <br>
 Holding finger_1 and finger_4 up will toggle scroll down. The speed and distance of scrolling are parameters that can be changed as pleased.
 <img src="/assets/images/Scroll_Down.jpg" width="200">
 
-### Remarks
+## Additional Remarks
 * I tried to optimize this code as much as I could in order to have high FPS, however there is always more room for improvement.
 * Try to experiment with this code yourself and set up your own functionality with any combination of fingers!
